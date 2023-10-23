@@ -32,4 +32,5 @@ font-size: 20px;
 .big-card__photo > img {
   width: 100%;
   min-width: 640px;
+
 }
