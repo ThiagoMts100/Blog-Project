@@ -1,6 +1,6 @@
 .container__small-card {
 
-  width: 800px;
+  width: 600px;
   margin-bottom: 15px;
 
 }
@@ -10,7 +10,7 @@
   flex-direction: row;
 }
   .small-card__photo > img {
-    width: 200px;
+    width: 350px;
     min-width: 200px;
     margin-right: 20px;
   }

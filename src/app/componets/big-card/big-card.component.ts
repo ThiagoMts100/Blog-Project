@@ -9,11 +9,13 @@ import { Component, Input, OnInit } from '@angular/core';
 
 export class BigCardComponent implements OnInit {
 @Input()
-photocover:string=" "
+photocover:string=" https://pt.wikipedia.org/wiki/Chevrolet_Opala#/media/Ficheiro:Chevrolet_Opala_SS_1978_Inca.jpg"
 @Input()
 cardTittle:string=""
 @Input()
 cardDescription:string=""
+@Input()
+Id:string="0"
 constructor () {}
 ngOnInit(): void {
 

@@ -3,11 +3,23 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #111;
-  color: white;
+  background-image: url(assets/imagem/imagem.jpg);
+  background-repeat: round;
+  color: rgb(255, 255, 255);
   font-family: 'segoe UI';
+
 }
 
 a {
   text-decoration: none;
+
 }
+
+p{
+  text-align: center;
+
+
+
+}
+
+
