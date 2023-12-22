@@ -13,8 +13,8 @@
 
 .big-card__title h1 > a {
   margin-top: 15px;
-font-size: 25px;
-color: rgb(34, 255, 0);
+  font-size: 25px;
+  color: rgb(47, 141, 55);
 
 
 }
@@ -36,6 +36,3 @@ border-radius: 50px;
 border: 1px solid white;
 }
 
-.big-card__description > a{
-  color: aqua;
-}

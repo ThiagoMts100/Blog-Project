@@ -35,7 +35,7 @@
 }
 
 .content__tittle > h1{
-  color: #00ff6a;
+  color: rgb(47, 141, 55);
 }
 
 
@@ -44,8 +44,8 @@
   height: 50px;
   border: ridge;
   outline: none;
-  color: #00ff3c;
-  background: #111;
+  color: rgb(47, 141, 55);
+  background: #000000a1;
   font-size: 20px;
   margin: 0 76px;
   cursor: pointer;
@@ -73,7 +73,7 @@ a:before {
 }
 
 a:active {
-  color: #000
+  color: #8b2222
 }
 
 a:active:after {
