@@ -3,11 +3,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url(assets/imagem/imagem.jpg);
-  background-repeat: round;
-  color: rgb(255, 255, 255);
-  font-family: 'segoe UI';
 
+  font-family: 'segoe UI';
+background-image: url(assets/imagem/1477945_600275566675746_282453139_n.jpg);
 }
 
 a {
@@ -22,4 +20,14 @@ p{
 
 }
 
+/* @media (max-width: 900px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
 
+@media (min-width: 640px){
+  .facet_sidebar {
+    display: none;
+  }
+} */

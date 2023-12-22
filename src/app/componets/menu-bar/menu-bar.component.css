@@ -4,11 +4,23 @@
 .container__menu-bar > ul {
   display: flex;
   flex-direction: row;
+  font-size: 20px;
+color: aqua;
 
 }
 
 .container__menu-bar > ul > li {
   margin-right: 20px;
   list-style: none;
+color: rgb(166, 0, 255);
 
 }
+.container__menu-bar a{
+  color: rgb(81, 255, 0);
+  border-radius: 50px;
+  border: 1px solid;
+}
+
+
+
+

@@ -1,9 +1,7 @@
 .container__big-card{
-
   margin-left: 10px;
   margin-right: 10px;
   width: 650px;
-
   height: 550px;
 
 
@@ -13,9 +11,11 @@
   justify-content: flex-start;
 }
 
-.big-card__title h1 {
+.big-card__title h1 > a {
   margin-top: 15px;
-font-size: 20px;
+font-size: 25px;
+color: rgb(34, 255, 0);
+
 
 }
 
@@ -24,13 +24,18 @@ font-size: 20px;
 }
 
 .big-card__description > p > a {
-
-  color: gray;
-
+  color: rgb(254, 254, 254);
+  font-size: 20px;
+  text-align: center;
 }
 
 .big-card__photo > img {
   width: 100%;
   min-width: 640px;
+border-radius: 50px;
+border: 1px solid white;
+}
 
+.big-card__description > a{
+  color: aqua;
 }
